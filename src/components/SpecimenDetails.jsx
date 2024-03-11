@@ -365,7 +365,7 @@ const SpecimenDetails = () => {
 										value={result}
 										onChange={(e) => setResult(e.target.value)}>
 										<option value="Resistant">Resistant</option>
-										<option value="Semi-Resistant">
+										<option value="Intermediate Resistant">
 											Intermediate Resistant
 										</option>
 										<option value="Sensitive">Senstive</option>
